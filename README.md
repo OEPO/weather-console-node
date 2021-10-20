@@ -2,6 +2,9 @@
 
 Aplicacion de consola que muestra el clima y guarda el historial de busqueda.
 
+![alt text](https://i.ibb.co/VBNLxpZ/github1.png)
+
+![alt text](https://i.ibb.co/h9MKPPn/github2.png)
 
 ## Run
 
